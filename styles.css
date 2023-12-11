@@ -1,0 +1,10 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+
+.aside-box{
+  width: 400px;
+  height: 900px;
+  background-color:#2F80ED;
+}
