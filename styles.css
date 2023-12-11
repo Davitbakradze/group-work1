@@ -1,0 +1,11 @@
+* {
+    padding:0px;
+    margin: 0px;
+}
+@font-face {
+    font-family: 'poppins-bold';
+    src: url('fonts/poppins-bold.ttf') format('ttf');
+}
+body {
+    font-family: 'poppins-bold';
+}
